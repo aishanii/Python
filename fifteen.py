@@ -1,3 +1,5 @@
+#to find the maximum and minimum numbers in a given list
+
 def max_min(lst):
     min=lst[0]
     max=lst[0]
