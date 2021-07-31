@@ -1,3 +1,5 @@
+#to print the number of days between two given dates
+
 import datetime
 from datetime import date
 
