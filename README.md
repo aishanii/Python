@@ -1,2 +1,2 @@
-# Python-W3 Resource
-Python programming practice.
+# Python
+Python programming practice, Web Scraping 
