@@ -1,16 +1,15 @@
-#to print the number of days between two given dates
+import random
+num=[3,5,6,7]
+print("Original list:")
+print(num)
+random.shuffle(num)
+print("Shuffled list:")
+print(num)
 
-import datetime
-from datetime import date
+words=['black','green','white','red']
+print("\nOriginal:")
+print(words)
 
-
-f_date = input("Enter first date in YYYY-MM-DD format: ")
-year, month, day = map(int, f_date.split('-'))
-f_date = datetime.date(year, month, day)
-
-s_date = input("Enter second date in YYYY-MM-DD format: ")
-year, month, day = map(int, s_date.split('-'))
-s_date = datetime.date(year, month, day)
-
-diff=s_date-f_date
-print(diff.days)
+random.shuffle(words)
+print("Shuffled:")
+print(words)
