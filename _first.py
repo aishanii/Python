@@ -1,4 +1,4 @@
-#create all strings using given chars
+#create all strings using the given characters
 
 import random
 chars=['a','e','i','o','u']
