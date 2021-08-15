@@ -1,3 +1,4 @@
+#to check if a number is present in a list
 def is_available(list,n):
    for i in list:
        if n == i:
