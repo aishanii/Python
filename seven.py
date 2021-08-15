@@ -1,3 +1,5 @@
+#to find distance between two given points
+
 import math
 p1 = [4, 0]
 p2 = [6, 6]
