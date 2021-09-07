@@ -1,3 +1,5 @@
+#the pytz module defines other time zones
+
 from datetime import datetime
 import pytz
 
